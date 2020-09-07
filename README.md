@@ -1,8 +1,7 @@
 # Simple-Quiz-in-Java
-It's just a simple console based quiz(Music Theory Quiz) made in java
-When you Run the "main.java" file
-The program will run and open's up a menu
-There will be four option's in the menu:
+It's just a simple console based quiz(Music Theory Quiz) made in java.
+When you Run the "main.java" file. The program will run and open's up a menu. 
+There will be four option's in this menu:
 1- Signup
 2- login
 3- Score
