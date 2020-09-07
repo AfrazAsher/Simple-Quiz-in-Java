@@ -1,0 +1,15 @@
+Run the main.java file
+The program will run and open's up a menu
+There will be 4 option's in the menu:
+1- Signin
+2- login
+3- Score
+4- Exit
+
+The "Signin" function will enter the data of the user in it.
+
+The"Login" function will log in the user in to the quiz.
+
+The "Score" function will show the user the score.
+
+The "Exit" will end the quiz application. 
